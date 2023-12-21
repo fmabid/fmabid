@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmabid&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmabid&" alt="fmabid"/></p>
+
 <!--
 **fmabid/fmabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
